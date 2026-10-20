@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "watch-plz",
+  "versions": [
+    {
+      "commit": "16c33861a7b32ac359d4e2c972d302095a99da77",
+      "parsed_at": "2026-10-20T21:07:14.081573+00:00",
+      "filetree": "filetree/16c33861a7b32ac359d4e2c972d302095a99da77.nq.gz",
+      "blobs": [
+        "blob/e03e944532a11962fd394d18a60221fb9943e5f7.nq.gz",
+        "blob/ed2ce132dd6f53bd296bdc09219ab68a0de172a7.nq.gz",
+        "blob/95fc7f8c59085e020d69d3e3ec7e37c3670578b8.nq.gz",
+        "blob/ea8ea9b18ee9588dd1a3f92bdf04aaa23c6c208e.nq.gz",
+        "blob/f1543fad215851e7e301b045b4b8f95a1e446d9c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
