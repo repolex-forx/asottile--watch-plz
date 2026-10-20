@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/watch-plz/commit/16c33861a7b32ac359d4e2c972d302095a99da77",
       "git:hexsha": "16c33861a7b32ac359d4e2c972d302095a99da77",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
